@@ -1,5 +1,5 @@
 # Algoriza_Task
- Algoriza Internship First Task
+ Algoriza Flutter Internship First Task
 
 ## Getting Started
   - Task was Assigned to Design and Implement OnBoarding, Sign Up and Register Screens
