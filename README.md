@@ -26,6 +26,6 @@ App Screenshots:
 App Screen Record:
 ---------------------------
 
-   -  https://user-images.githubusercontent.com/30273995/191146220-ff7795e3-e37a-4edc-8fd5-847c1e349ece.mp4
+  https://user-images.githubusercontent.com/30273995/191146220-ff7795e3-e37a-4edc-8fd5-847c1e349ece.mp4
    
 -----------------------------------------------------------------------------------------------------------------------------
